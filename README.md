@@ -7,11 +7,6 @@ Welcome to the OpenAI Chatbot project! This repository contains the code for a c
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
